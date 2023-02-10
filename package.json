@@ -34,9 +34,7 @@
     "@hapipal/toys": "3.x.x",
     "babel-eslint": "10.x.x",
     "dotenv": "8.x.x",
-    "eslint": "7.x.x",
-<<<<<<< HEAD
-    "exiting": "6.x.x"
+    "eslint": "7.x.x"
   },
   "repository": {
     "type": "git",
@@ -50,9 +48,4 @@
     "url": "https://github.com/marcuzzi1/node-js-final-project/issues"
   },
   "homepage": "https://github.com/marcuzzi1/node-js-final-project#readme"
-=======
-    "exiting": "6.x.x",
-    "hapi-swagger": "14.x.x"
-  }
->>>>>>> 2a479ff ((flavor) swagger v3.0.0)
 }
